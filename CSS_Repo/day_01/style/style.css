@@ -1,0 +1,20 @@
+body{
+    background-color:antiquewhite;
+}
+h1{
+    color:palevioletred;
+    text-align: center;
+}
+h2{
+    color:palevioletred
+}
+#image{
+    text-align: center;
+}
+.image{
+    text-align: center;
+}
+h1,h2,figure{
+    color: blue;
+    text-align: center;
+}
