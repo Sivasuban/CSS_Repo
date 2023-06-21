@@ -1,0 +1,23 @@
+body{
+    background-color: gainsboro;
+}
+div{
+    background-color: white;
+    height: 750px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#roman{
+    list-style-type: upper-roman;
+}
+#sub {
+    list-style-type: upper-alpha;
+}
+#sup {
+    list-style-type: lower-roman;
+}
+h3{
+    text-align: center;
+    color: blueviolet;
+}
