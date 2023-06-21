@@ -1,0 +1,59 @@
+body
+{
+    background-color: blueviolet;
+   
+}
+div
+{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 500px;
+}
+button
+{
+    
+    height: 45px;
+    width: 120px;
+}
+i
+{
+
+    font-size: 40px;
+}
+#login{
+    background-color: blue;
+}
+#login1{
+    background-color: skyblue;
+}
+#login2{
+    background-color: orangered;
+}
+#t1{
+    margin-left: auto;
+    margin-right: auto;
+}
+hr{
+    
+    width:380px;
+}
+
+h1,h3{
+    text-align: center;
+}
+#button{
+    background-color: orangered;
+    color: white;
+    width: 390px;
+}
+#t2{
+    margin-left: auto;
+    margin-right: auto;
+}
+#email{
+    width: 380px;
+    height: 40px;
+    
+}

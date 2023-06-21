@@ -1,0 +1,23 @@
+body{
+    background-color:gainsboro;
+}
+div{
+    margin-left: 400px;
+    background-color: aliceblue;
+    
+    height:250px;
+    width: 600px;
+    
+}
+.form{
+    margin-left: 80px;
+}
+i{
+    margin-left: 5px;
+    font-size: 25px;
+}
+button{
+    background-color: orangered;
+    color: white;
+    margin-left: 80px;
+}

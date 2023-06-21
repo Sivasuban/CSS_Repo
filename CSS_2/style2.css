@@ -1,0 +1,26 @@
+body{
+    background-color:blueviolet;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+div{
+    background-color: aliceblue;
+    margin: 10px;
+    height: 350px;
+    width: 300px;
+}
+button{
+    background-color: black;
+    color: white;
+}
+i{
+    margin: 60px;
+    font-size: 80px;
+    text-align: center;
+}
+table{
+    margin-left:auto;
+    margin-right: auto;
+}
