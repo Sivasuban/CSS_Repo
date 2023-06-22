@@ -1,0 +1,13 @@
+body{
+    background-color: gainsboro;
+}
+p:Before{
+    content: "Before";
+    font-size: 30px;
+    color: red;
+}
+p:After{
+    content: "After";
+    font-size: 30px;
+    color: red;
+}

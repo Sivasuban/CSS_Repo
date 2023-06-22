@@ -1,0 +1,13 @@
+p::before{
+    content: "D";
+    font-size: 30px;
+    color: blue;
+}
+div{
+    height: 300px;
+    width: 500px;
+    background-color: gainsboro;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
