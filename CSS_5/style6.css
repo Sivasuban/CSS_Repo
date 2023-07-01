@@ -1,0 +1,33 @@
+.img{
+    margin-top: 20px;
+    height: 550px;
+    width: 300px;
+    margin-left: 40%;
+    background-image: url('https://www.deutschland.de/sites/default/files/styles/image_carousel_mobile/public/media/image/germany-media-newspaper-magazine-press-freedom-print.jpg?itok=w_HsnXpG');
+}
+div{
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: -150px;
+    border-radius: 20px;
+    padding: 20px;
+}
+body{
+    background-color: gainsboro;
+}
+#para{
+    font-size: 12px;
+}
+#high{
+    font-size: 20px;
+}
+button{
+    border-radius: 10px;
+    height: 40px;
+    width: 140px;
+    color: white;
+    background-color: lightslategray;
+    border: lightslategray;
+}

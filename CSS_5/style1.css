@@ -1,0 +1,28 @@
+body{
+    background-color:green;
+    
+}
+div{
+    background-color: white;
+    height: 250px;
+    width: 350px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+i{
+    font-size: 35px;
+    
+    margin-top: 40px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.para{
+    font-style: italic;
+    text-align: center;
+    margin-left: 40px;
+    color: white;
+}

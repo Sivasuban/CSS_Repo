@@ -1,0 +1,42 @@
+body{
+    background-color:magenta;
+}
+div{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    text-align: center;
+    margin-left: 20px;    
+}
+.circle{
+    border-radius: 100%;
+    border:4px solid magenta;
+    margin-top: 30px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    padding: 20px;
+}
+button{
+
+    margin-right: 30px;
+    color: magenta;
+    background-color: white;
+    height: 40px;
+    width: 100px;
+    border:1px solid magenta;
+}
+.box{
+    background-color: magenta;
+    color: white;
+}
+h4{
+    color: magenta;
+}
+table{
+    margin: auto;
+}

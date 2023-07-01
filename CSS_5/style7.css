@@ -1,0 +1,67 @@
+h1{
+    color:green;
+    
+}
+.p{
+    margin-top: -25px; 
+    float: left;
+}
+body{
+    background-color: gainsboro;
+}
+ul{
+    list-style-type: none;
+}
+nav{
+    float: right;
+    margin-top: -80px;
+}
+div{
+    float: left;
+    text-align: center;
+}
+nav ul li{
+    display:inline-block ;
+    padding: 10px;
+    padding-left:20px ;    
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+#top{
+    
+    text-align: center;
+}
+hr{
+    height: 2px;
+    width: 25px;
+    background-color: black;
+}
+.child{
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    margin-left: -200px;
+    float: left;
+}
+
+img{
+    margin-top: 10px;
+}
+.parent{
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    margin-left: 50px;
+    float: left;
+    margin-top: 10px;
+}
+.pair{
+    height: 250px;
+    width: 200px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+    
+}
