@@ -1,0 +1,30 @@
+body{
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+table,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    
+}
+td,th{
+    padding: 30px;
+    
+}
+tr:hover{
+    background-color:gainsboro;
+    color: rgba(8, 142, 124, 0.952);
+}
+table{
+    background-color: white;
+}
+th{
+    background-color:rgba(8, 142, 124, 0.952);
+    color: white;
+}
+table{
+    margin: auto;
+    font-family: sans-serif;
+}

@@ -1,0 +1,50 @@
+table{
+    border: 1px solid rgba(0, 170, 255, 0.283);
+    font-size: 20px;
+    width: 1500px;
+}
+img{
+    border-radius: 100px;
+}
+th{
+    background-color:darkcyan;
+    color:white;
+    text-align: center;
+    border-radius: 10px;
+}
+tr,td,th{
+    padding: 10px;
+}
+div{
+    position: relative;
+    top: none;
+    height: 520px;
+    width:1003px;
+    background-color: skyblue;
+    margin: auto;
+}
+table{
+    height: 400px;
+    width: 1000px;
+    background-color: white;
+    margin:auto;
+    position: relative;
+    top: 25px;
+    color: rgb(104, 134, 104);
+    border-collapse: collapse;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+.row1{
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: rgb(229, 246, 253);
+}
+.col4{
+    width: 15%;
+}
+.col2{
+    width: 15%;
+}
+
