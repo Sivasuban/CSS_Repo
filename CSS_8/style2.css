@@ -1,0 +1,103 @@
+body{
+    background:linear-gradient(to bottom left,rgba(165, 42, 42, 0.575),white);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+
+}
+.child{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiY0q-LQ_NnzQCLf8X2OHx4Db0ZDv1knVrtQ&usqp=CAU');
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 240px;
+}
+.child1{
+    background-color: white;
+    width: 240px;
+    text-align: center;
+    padding-bottom: 1px;
+}
+img{
+    border-radius: 100px;
+    position: relative;
+    top: -40px;
+}
+h1{
+    margin-top: -40px;
+}
+.para{
+    margin-top: -20px;
+}
+.div1{
+    position: relative;
+    left: 65px;
+    top: 73px;
+    box-shadow: 2px 2px 10px 2px black;
+    width: 240px;
+}
+.div2{
+    position: relative;
+    left: 190px;
+    top: -286px;
+    transform:perspective(500px) rotateY(50deg);  
+    box-shadow: 2px 2px 10px 2px black;
+    width: 240px;
+}
+.div3{
+    height: 380px;
+    width: 5px;
+    background-color: white;
+    position: relative;
+    left: 400px;
+    top: -630px;
+}
+.div4{
+    height:380px ;
+    width:240px ;
+    background-color: white;
+    text-align: center;
+
+}
+.child2{
+    float: left;
+    padding: 5px;
+}
+.child3{
+    position: relative;
+    top: 20px;
+}
+#read{
+    position: relative;
+    right: 40px;
+}
+#read1{
+    position: relative;
+    left: 40px;
+}
+.light{
+    margin-top: 40px;
+}
+.child4{
+    position: relative;
+    left: 390px;
+    top: -1050px;
+    transform: perspective(500px) rotatey(-40deg);
+    box-shadow: 2px 2px 10px black;
+    width: 240px;
+    
+}
+.child5{
+    position: relative;
+    left: 565px;
+    top: -1427px;
+    box-shadow: 2px 2px 10px black;
+    z-index: -1;
+    width: 240px;
+    transform: perspective(1000px) rotatey(5deg);
+}
+section{
+    position: relative;
+    left:15%;
+    top: 10%;
+}
